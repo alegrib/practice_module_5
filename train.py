@@ -1,5 +1,3 @@
-#python train.py –datapath ./data/train/ –save_to ./checkpoints –model VGG –pretrained False
-
 import sys
 import argparse
 import model_dispatch
